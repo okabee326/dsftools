@@ -1,0 +1,48 @@
+﻿	<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+		<PropertyGroup>
+			<ProjectGuid>{BE26768C-4F0B-42E7-B193-B8B34D6D579C}</ProjectGuid>
+		</PropertyGroup>
+		<ItemGroup>
+			<Projects Include="upconvfe.cbproj">
+				<Dependencies/>
+			</Projects>
+			<Projects Include="JPN\upconvfe_JPN.bdsproj">
+				<Dependencies/>
+			</Projects>
+		</ItemGroup>
+		<ProjectExtensions>
+			<Borland.Personality>Default.Personality.12</Borland.Personality>
+			<Borland.ProjectType/>
+			<BorlandProject>
+				<Default.Personality/>
+			</BorlandProject>
+		</ProjectExtensions>
+		<Target Name="upconvfe">
+			<MSBuild Projects="upconvfe.cbproj"/>
+		</Target>
+		<Target Name="upconvfe:Clean">
+			<MSBuild Targets="Clean" Projects="upconvfe.cbproj"/>
+		</Target>
+		<Target Name="upconvfe:Make">
+			<MSBuild Targets="Make" Projects="upconvfe.cbproj"/>
+		</Target>
+		<Target Name="upconvfe_JPN">
+			<MSBuild Projects="JPN\upconvfe_JPN.bdsproj"/>
+		</Target>
+		<Target Name="upconvfe_JPN:Clean">
+			<MSBuild Targets="Clean" Projects="JPN\upconvfe_JPN.bdsproj"/>
+		</Target>
+		<Target Name="upconvfe_JPN:Make">
+			<MSBuild Targets="Make" Projects="JPN\upconvfe_JPN.bdsproj"/>
+		</Target>
+		<Target Name="Build">
+			<CallTarget Targets="upconvfe;upconvfe_JPN"/>
+		</Target>
+		<Target Name="Clean">
+			<CallTarget Targets="upconvfe:Clean;upconvfe_JPN:Clean"/>
+		</Target>
+		<Target Name="Make">
+			<CallTarget Targets="upconvfe:Make;upconvfe_JPN:Make"/>
+		</Target>
+		<Import Project="$(BDS)\Bin\CodeGear.Group.Targets" Condition="Exists('$(BDS)\Bin\CodeGear.Group.Targets')"/>
+	</Project>

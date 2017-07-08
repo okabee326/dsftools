@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+<xliff version="1.0">
+  <file original="E:\work\freesoft\upconv\upconvfe\Unit4.dfm" source-language="ja-JP" target-language="ja-JP" datatype="delphiform" tool="ETM v10.0" ts="E:\work\freesoft\upconv\upconvfe\Unit4.dfm">
+    <header>
+      <prop-group name="ITEHeaderProp">
+        <prop prop-type="Version">9.0</prop>
+        <prop prop-type="SelfDateTime">40950.0015277778</prop>
+        <prop prop-type="OrigDateTime">40949.9954398148</prop>
+        <prop prop-type="XlatDateTime">40492.9418518519</prop>
+        <prop prop-type="Translated">0</prop>
+        <prop prop-type="UnTranslated">52</prop>
+      </prop-group>
+    </header>
+    <body>
+      <trans-unit id="O:Form4.Left" resname="O:Form4.Left">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40492.9431339468</prop><prop prop-type="Status">0</prop><prop prop-type="Order">0</prop><prop prop-type="Type">TForm4</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form4.Top" resname="O:Form4.Top">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40492.9431339468</prop><prop prop-type="Status">0</prop><prop prop-type="Order">1</prop><prop prop-type="Type">TForm4</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form4.Caption" resname="O:Form4.Caption">
+        <source>'File Information'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40492.9431339468</prop><prop prop-type="Status">0</prop><prop prop-type="Order">2</prop><prop prop-type="Type">TForm4</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form4.ClientHeight" resname="O:Form4.ClientHeight">
+        <source>427</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40492.9431339468</prop><prop prop-type="Status">0</prop><prop prop-type="Order">3</prop><prop prop-type="Type">TForm4</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form4.ClientWidth" resname="O:Form4.ClientWidth">
+        <source>665</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40492.9431339468</prop><prop prop-type="Status">0</prop><prop prop-type="Order">4</prop><prop prop-type="Type">TForm4</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form4.Color" resname="O:Form4.Color">
+        <source>clBtnFace</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40492.9431339583</prop><prop prop-type="Status">0</prop><prop prop-type="Order">5</prop><prop prop-type="Type">TForm4</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form4.Font.Charset" resname="O:Form4.Font.Charset">
+        <source>DEFAULT_CHARSET</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40492.9431339583</prop><prop prop-type="Status">0</prop><prop prop-type="Order">6</prop><prop prop-type="Type">TForm4</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form4.Font.Color" resname="O:Form4.Font.Color">
+        <source>clWindowText</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40492.9431339583</prop><prop prop-type="Status">0</prop><prop prop-type="Order">7</prop><prop prop-type="Type">TForm4</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form4.Font.Height" resname="O:Form4.Font.Height">
+        <source>-11</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40492.9431339583</prop><prop prop-type="Status">0</prop><prop prop-type="Order">8</prop><prop prop-type="Type">TForm4</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form4.Font.Name" resname="O:Form4.Font.Name">
+        <source>'Tahoma'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40492.9431339583</prop><prop prop-type="Status">0</prop><prop prop-type="Order">9</prop><prop prop-type="Type">TForm4</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form4.Font.Style" resname="O:Form4.Font.Style">
+        <source>[]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40492.9431339583</prop><prop prop-type="Status">0</prop><prop prop-type="Order">10</prop><prop prop-type="Type">TForm4</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form4.OldCreateOrder" resname="O:Form4.OldCreateOrder">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40492.9431339699</prop><prop prop-type="Status">0</prop><prop prop-type="Order">11</prop><prop prop-type="Type">TForm4</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form4.OnShow" resname="O:Form4.OnShow">
+        <source>FormShow</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40492.9431339699</prop><prop prop-type="Status">0</prop><prop prop-type="Order">12</prop><prop prop-type="Type">TForm4</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form4.DesignSize[0]" resname="O:Form4.DesignSize[0]">
+        <source>665</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40495.6311371065</prop><prop prop-type="Status">0</prop><prop prop-type="Order">13</prop><prop prop-type="Type">TForm4</prop><prop prop-type="Localize">1</prop><prop prop-type="Open">(</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form4.DesignSize[1]" resname="O:Form4.DesignSize[1]">
+        <source>427</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40495.6311371065</prop><prop prop-type="Status">0</prop><prop prop-type="Order">14</prop><prop prop-type="Type">TForm4</prop><prop prop-type="Localize">1</prop><prop prop-type="Close">)</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form4.PixelsPerInch" resname="O:Form4.PixelsPerInch">
+        <source>96</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40495.6311371181</prop><prop prop-type="Status">0</prop><prop prop-type="Order">15</prop><prop prop-type="Type">TForm4</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form4.TextHeight" resname="O:Form4.TextHeight">
+        <source>13</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40492.9431339699</prop><prop prop-type="Status">0</prop><prop prop-type="Order">16</prop><prop prop-type="Type">TForm4</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form4.O:tvTree.Left" resname="O:Form4.O:tvTree.Left">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40495.6311371181</prop><prop prop-type="Status">0</prop><prop prop-type="Order">17</prop><prop prop-type="Type">TTreeView</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form4.O:tvTree.Top" resname="O:Form4.O:tvTree.Top">
+        <source>-2</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40495.6311371181</prop><prop prop-type="Status">0</prop><prop prop-type="Order">18</prop><prop prop-type="Type">TTreeView</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form4.O:tvTree.Width" resname="O:Form4.O:tvTree.Width">
+        <source>201</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40495.6311371181</prop><prop prop-type="Status">0</prop><prop prop-type="Order">19</prop><prop prop-type="Type">TTreeView</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form4.O:tvTree.Height" resname="O:Form4.O:tvTree.Height">
+        <source>428</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40495.6311371181</prop><prop prop-type="Status">0</prop><prop prop-type="Order">20</prop><prop prop-type="Type">TTreeView</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form4.O:tvTree.Anchors" resname="O:Form4.O:tvTree.Anchors">
+        <source>[akLeft, akTop, akBottom]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40495.6311371181</prop><prop prop-type="Status">0</prop><prop prop-type="Order">21</prop><prop prop-type="Type">TTreeView</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form4.O:tvTree.Indent" resname="O:Form4.O:tvTree.Indent">
+        <source>19</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40495.6311371296</prop><prop prop-type="Status">0</prop><prop prop-type="Order">22</prop><prop prop-type="Type">TTreeView</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form4.O:tvTree.ReadOnly" resname="O:Form4.O:tvTree.ReadOnly">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40495.8582112847</prop><prop prop-type="Status">0</prop><prop prop-type="Order">23</prop><prop prop-type="Type">TTreeView</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form4.O:tvTree.TabOrder" resname="O:Form4.O:tvTree.TabOrder">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40495.6311371296</prop><prop prop-type="Status">0</prop><prop prop-type="Order">24</prop><prop prop-type="Type">TTreeView</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form4.O:tvTree.OnClick" resname="O:Form4.O:tvTree.OnClick">
+        <source>tvTreeClick</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40495.6926134259</prop><prop prop-type="Status">0</prop><prop prop-type="Order">25</prop><prop prop-type="Type">TTreeView</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form4.O:tvTree.ExplicitHeight" resname="O:Form4.O:tvTree.ExplicitHeight">
+        <source>263</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40950.0015416898</prop><prop prop-type="Status">0</prop><prop prop-type="Order">26</prop><prop prop-type="Type">TTreeView</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form4.O:tvDesc.Left" resname="O:Form4.O:tvDesc.Left">
+        <source>200</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40495.6311371296</prop><prop prop-type="Status">0</prop><prop prop-type="Order">27</prop><prop prop-type="Type">TValueListEditor</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form4.O:tvDesc.Top" resname="O:Form4.O:tvDesc.Top">
+        <source>-2</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40495.6311371296</prop><prop prop-type="Status">0</prop><prop prop-type="Order">28</prop><prop prop-type="Type">TValueListEditor</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form4.O:tvDesc.Width" resname="O:Form4.O:tvDesc.Width">
+        <source>464</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40495.6311371296</prop><prop prop-type="Status">0</prop><prop prop-type="Order">29</prop><prop prop-type="Type">TValueListEditor</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form4.O:tvDesc.Height" resname="O:Form4.O:tvDesc.Height">
+        <source>428</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40495.6311371412</prop><prop prop-type="Status">0</prop><prop prop-type="Order">30</prop><prop prop-type="Type">TValueListEditor</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form4.O:tvDesc.Anchors" resname="O:Form4.O:tvDesc.Anchors">
+        <source>[akLeft, akTop, akRight, akBottom]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40495.6311371412</prop><prop prop-type="Status">0</prop><prop prop-type="Order">31</prop><prop prop-type="Type">TValueListEditor</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form4.O:tvDesc.DisplayOptions" resname="O:Form4.O:tvDesc.DisplayOptions">
+        <source>[doAutoColResize, doKeyColFixed]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40495.7853827315</prop><prop prop-type="Status">0</prop><prop prop-type="Order">32</prop><prop prop-type="Type">TValueListEditor</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form4.O:tvDesc.Font.Charset" resname="O:Form4.O:tvDesc.Font.Charset">
+        <source>ANSI_CHARSET</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40950.0015417014</prop><prop prop-type="Status">0</prop><prop prop-type="Order">33</prop><prop prop-type="Type">TValueListEditor</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form4.O:tvDesc.Font.Color" resname="O:Form4.O:tvDesc.Font.Color">
+        <source>clWindowText</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40950.0015417014</prop><prop prop-type="Status">0</prop><prop prop-type="Order">34</prop><prop prop-type="Type">TValueListEditor</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form4.O:tvDesc.Font.Height" resname="O:Form4.O:tvDesc.Font.Height">
+        <source>-11</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40950.0015417014</prop><prop prop-type="Status">0</prop><prop prop-type="Order">35</prop><prop prop-type="Type">TValueListEditor</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form4.O:tvDesc.Font.Name" resname="O:Form4.O:tvDesc.Font.Name">
+        <source>'Tahoma'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40950.0015417014</prop><prop prop-type="Status">0</prop><prop prop-type="Order">36</prop><prop prop-type="Type">TValueListEditor</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form4.O:tvDesc.Font.Style" resname="O:Form4.O:tvDesc.Font.Style">
+        <source>[]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40950.0015417014</prop><prop prop-type="Status">0</prop><prop prop-type="Order">37</prop><prop prop-type="Type">TValueListEditor</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form4.O:tvDesc.GridLineWidth" resname="O:Form4.O:tvDesc.GridLineWidth">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40495.7853827315</prop><prop prop-type="Status">0</prop><prop prop-type="Order">38</prop><prop prop-type="Type">TValueListEditor</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form4.O:tvDesc.Options" resname="O:Form4.O:tvDesc.Options">
+        <source>[goFixedVertLine, goFixedHorzLine, goVertLine, goHorzLine, goColSizing, goThumbTracking]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40495.7853827315</prop><prop prop-type="Status">0</prop><prop prop-type="Order">39</prop><prop prop-type="Type">TValueListEditor</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form4.O:tvDesc.ParentFont" resname="O:Form4.O:tvDesc.ParentFont">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40950.001541713</prop><prop prop-type="Status">0</prop><prop prop-type="Order">40</prop><prop prop-type="Type">TValueListEditor</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form4.O:tvDesc.ScrollBars" resname="O:Form4.O:tvDesc.ScrollBars">
+        <source>ssVertical</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40495.7853827315</prop><prop prop-type="Status">0</prop><prop prop-type="Order">41</prop><prop prop-type="Type">TValueListEditor</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form4.O:tvDesc.Strings.Strings[0]" resname="O:Form4.O:tvDesc.Strings.Strings[0]">
+        <source>'Offset='</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40495.7853827315</prop><prop prop-type="Status">0</prop><prop prop-type="Order">42</prop><prop prop-type="Type">TValueListEditor</prop><prop prop-type="Localize">1</prop><prop prop-type="Open">(</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form4.O:tvDesc.Strings.Strings[1]" resname="O:Form4.O:tvDesc.Strings.Strings[1]">
+        <source>'Size='</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40495.7853827431</prop><prop prop-type="Status">0</prop><prop prop-type="Order">43</prop><prop prop-type="Type">TValueListEditor</prop><prop prop-type="Localize">1</prop><prop prop-type="Close">)</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form4.O:tvDesc.TabOrder" resname="O:Form4.O:tvDesc.TabOrder">
+        <source>1</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40495.7853827431</prop><prop prop-type="Status">0</prop><prop prop-type="Order">44</prop><prop prop-type="Type">TValueListEditor</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form4.O:tvDesc.TitleCaptions.Strings[0]" resname="O:Form4.O:tvDesc.TitleCaptions.Strings[0]">
+        <source>'Name'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40495.7853827431</prop><prop prop-type="Status">0</prop><prop prop-type="Order">45</prop><prop prop-type="Type">TValueListEditor</prop><prop prop-type="Localize">1</prop><prop prop-type="Open">(</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form4.O:tvDesc.TitleCaptions.Strings[1]" resname="O:Form4.O:tvDesc.TitleCaptions.Strings[1]">
+        <source>'Value'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40495.7853827431</prop><prop prop-type="Status">0</prop><prop prop-type="Order">46</prop><prop prop-type="Type">TValueListEditor</prop><prop prop-type="Localize">1</prop><prop prop-type="Close">)</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form4.O:tvDesc.Visible" resname="O:Form4.O:tvDesc.Visible">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40495.7853827431</prop><prop prop-type="Status">0</prop><prop prop-type="Order">47</prop><prop prop-type="Type">TValueListEditor</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form4.O:tvDesc.ExplicitWidth" resname="O:Form4.O:tvDesc.ExplicitWidth">
+        <source>309</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40950.001541713</prop><prop prop-type="Status">0</prop><prop prop-type="Order">48</prop><prop prop-type="Type">TValueListEditor</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form4.O:tvDesc.ExplicitHeight" resname="O:Form4.O:tvDesc.ExplicitHeight">
+        <source>263</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40950.001541713</prop><prop prop-type="Status">0</prop><prop prop-type="Order">49</prop><prop prop-type="Type">TValueListEditor</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form4.O:tvDesc.ColWidths[0]" resname="O:Form4.O:tvDesc.ColWidths[0]">
+        <source>123</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40495.7853827546</prop><prop prop-type="Status">0</prop><prop prop-type="Order">50</prop><prop prop-type="Type">TValueListEditor</prop><prop prop-type="Localize">1</prop><prop prop-type="Open">(</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form4.O:tvDesc.ColWidths[1]" resname="O:Form4.O:tvDesc.ColWidths[1]">
+        <source>335</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40495.7310703241</prop><prop prop-type="Status">0</prop><prop prop-type="Order">51</prop><prop prop-type="Type">TValueListEditor</prop><prop prop-type="Localize">1</prop><prop prop-type="Close">)</prop></prop-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

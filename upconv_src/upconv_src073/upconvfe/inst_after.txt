@@ -1,0 +1,19 @@
+□ 必要なファイルについて
+-----------------------------------------------------------
+MP3、FLAC、WAVPACK、W64ファイル出力機能を使用するためには、
+以下のソフトが必要となりますので、該当ソフトを
+Upconvのフォルダにコピーしてください。
+
+◇MP3ファイル入力
+LAME.EXE
+HTTP://WWW.RAREWARES.ORG/MP3-LAME-BUNDLE.PHP
+◇FLACファイル入力、出力(エンコード)
+FLAC.EXE (WINDOWS版)
+HTTP://FLAC.SOURCEFORGE.NET/
+◇WAVPACKファイル入力、出力(エンコード)
+WAVPACK.EXE、WVUNPACK.EXE (WINDOWS版)
+HTTP://WWW.WAVPACK.COM/INDEX.HTML
+◇W64ファイル出力
+SNDFILE-CONVERT.EXE、LIBSNDFILE-1.DLL (LIBSNDFILEのWINDOWS版)
+HTTP://WWW.MEGA-NERD.COM/LIBSNDFILE/
+

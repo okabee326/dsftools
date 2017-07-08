@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<PersonalityInfo>
+		<Option>
+			<Option Name="Personality">W32ResourceDLL.Personality</Option>
+			<Option Name="ProjectType">ResourceDLL</Option>
+			<Option Name="Version">1.0</Option>
+			<Option Name="GUID">{80678AB8-714E-4E96-89CD-0EAC99EB98E8}</Option>
+		</Option>
+	</PersonalityInfo>
+	<W32ResourceDLL.Personality>
+		<Source>
+			<Source Name="MainSource">upconvfe.dpr</Source>
+		</Source>
+		<Options>
+			<Options Name="BaseLang">1041</Options>
+			<Options Name="TargetName">..\.\upconvfe.JPN</Options>
+			<Options Name="BRCC_IncludePath"></Options>
+			<Options Name="Company"></Options>
+			<Options Name="Configuration"></Options>
+			<Options Name="Copyright"></Options>
+			<Options Name="Description"></Options>
+			<Options Name="Trademark"></Options>
+			<Options Name="Product"></Options>
+			<Options Name="ProductVersion"></Options>
+			<Options Name="Title"></Options>
+			<Options Name="FileVersion"></Options>
+			<Options Name="Evidence"></Options>
+			<Options Name="KeyFile"></Options>
+			<Options Name="KeyName"></Options>
+		</Options>
+		<FileList>
+			<File FileName="Unit1.dfm" ContainerId="W32Form" ModuleName="Unit1.dfm"/>
+			<File FileName="Unit4.dfm" ContainerId="W32Form" ModuleName="Unit4.dfm"/>
+		</FileList>
+	</W32ResourceDLL.Personality>
+</BorlandProject>
